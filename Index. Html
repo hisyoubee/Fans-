@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Youbee Music</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>silent killer</h1>
+  <p>New music coming soon 🔥</p>
+
+  <button onclick="notify()">Notify Me</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
